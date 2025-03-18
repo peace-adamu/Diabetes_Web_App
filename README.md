@@ -1,4 +1,14 @@
-# Project title: Diabetes Prediction Web App
+# Project title: Diabetes Web App
+
+## Table of Contents
+- [Acknowledgments](#acknowledgments)
+- [Project Preview](#docs/project-preview.md)
+- [Project Objective](#project-objective)
+- [Project Significance](#project-significance)
+- [Methodology](#methodology)
+- [Prerequisites](#Prerequisities)
+- [Discussion of Result](#discussion-of-result)
+- [Conclusion](#conclusion)
 
 ## Project Preview
 This project contains a web-based Diabetes Prediction System utilizing machine learning algorithms and Streamlit. The system predicts whether a patient has diabetes based on their medical characteristics.
