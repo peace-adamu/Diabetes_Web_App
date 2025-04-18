@@ -1,6 +1,7 @@
 # Project title: Diabetes Web App
 
-## Link to Diabetes Web App:[https://diabeteswebapp-xhk39r6xtrzauucr2nvcav.streamlit.app/](#https://diabeteswebapp-xhk39r6xtrzauucr2nvcav.streamlit.app/)
+## Link to Diabetes Web App:
+<a href= "https://diabeteswebapp-xhk39r6xtrzauucr2nvcav.streamlit.app/" view>To access the app</a>
 
 ## Table of Contents
 - [Acknowledgments](#acknowledgments)
