@@ -1,5 +1,7 @@
 # Project title: Diabetes Web App
 
+## Link to Diabetes Web App:[https://diabeteswebapp-xhk39r6xtrzauucr2nvcav.streamlit.app/](#https://diabeteswebapp-xhk39r6xtrzauucr2nvcav.streamlit.app/)
+
 ## Table of Contents
 - [Acknowledgments](#acknowledgments)
 - [Project Preview](#docs/project-preview.md)
