@@ -28,7 +28,7 @@ def main():
 
     # Use Streamlit's form to prevent rerunning on every input change
     with st.form(key="prediction_form"):
-        No_Pation = st.text_input('Number of patient')
+       
         Age = st.text_input('Age of patient')
         Urea = st.text_input('Urea count')
         Cr = st.text_input('Creatinine count')
@@ -50,7 +50,7 @@ def main():
         try:
             # Convert inputs to float
             input_data = [
-                float(No_Pation), float(Age), float(Urea), float(Cr), float(HbAlc),
+                float(Age), float(Urea), float(Cr), float(HbAlc),
                 float(Chol), float(TG), float(HDL), float(LDL), float(VLDL), float(BMI), int(Gender)
             ]
 
