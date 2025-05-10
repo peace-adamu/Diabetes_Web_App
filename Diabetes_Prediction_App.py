@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load the saved model
-rfc_model = joblib.load(open('rfc_model.joblib', 'rb'))
+rfc_model = joblib.load(open('rfc_model_tuned.joblib', 'rb'))
 
 # Function for prediction
 def diabetes_prediction(input_data):
@@ -50,7 +50,7 @@ def main():
         try:
             # Convert inputs to float
             input_data = [
-                float(Age), float(Urea), float(Cr), float(HbAlc),
+                 float(Age), float(Urea), float(Cr), float(HbAlc),
                 float(Chol), float(TG), float(HDL), float(LDL), float(VLDL), float(BMI), int(Gender)
             ]
 
